@@ -1,0 +1,27 @@
+.login {
+  border: 5px dashed black;
+  padding: 1em;
+  background-color: #f0f0e1;
+}
+form div {
+  display: block;
+}
+.login__label {
+  background-color: #c1c1c1;
+  font-family: monospace;
+}
+.login__input_error {
+  background-color: red;
+}
+.login__submit {
+  margin: 1em 1em 0 0;
+}
+#result {
+  display: none;
+  border: 5px solid black;
+  padding:2em;
+  margin-top:1em;
+}
+.result__visible {
+  display:block;
+}
