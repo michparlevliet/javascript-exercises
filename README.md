@@ -1,2 +1,2 @@
 # javascript-exercises
-Repo for all JS, XML, and Node.js practice files
+Repo for all JS (security and unit/e2e testing) files
